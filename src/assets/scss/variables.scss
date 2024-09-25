@@ -1,0 +1,101 @@
+$black: var(--Color-primary-black);
+$black-1: var(--Color-primary-black-1);
+$black-2: var(--Color-primary-black-2);
+$black-3: var(--Color-primary-black-3);
+$white: var(--Color-primary-white);
+$turquoise: var(--Color-primary-turquoise);
+$persian-blue: var(--Color-primary-persian-blue);
+$violet: var(--Color-secondary-violet);
+$aureolin: var(--Color-secondary-aureolin);
+$off-red: var(--Color-secondary-off-red);
+
+
+// Fonts
+@mixin font-btn {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+@mixin font-secondray-btn {
+    font-family: 'Dogica', 'Epilepsy Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -2px;
+}
+
+@mixin font-label {
+    font-family: 'Verdana', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 8px;
+}
+
+@mixin font-secondary-label {
+    font-family: 'Dogica', 'Epilepsy Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 8px;
+    line-height: 8px;
+}
+
+@mixin font-h1 {
+    font-family: 'Verdana';
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 38px;
+    text-align: left;
+}
+
+@mixin font-h2 {
+    font-family: 'Dogica', 'Epilepsy Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+@mixin font-h3 {
+    font-family: 'Dogica', 'Epilepsy Sans';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+@mixin font-title-bold {
+    font-family: 'Verdana', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 1.2;
+}
+
+@mixin font-b-bold {
+    font-family: 'Verdana', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+@mixin font-secondary-b-bold {
+    font-family: 'Dogica', 'Epilepsy Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+@mixin font-b {
+    font-family: 'Verdana', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}

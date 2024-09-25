@@ -1,0 +1,39 @@
+{
+  "name": "wewetap",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3000",
+    "build": "vite build --mode development",
+    "preview": "vite preview --port 4173",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@intlify/unplugin-vue-i18n": "^1.5.0",
+    "axios": "^1.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "install": "^0.13.0",
+    "moment": "^2.9.0",
+    "pixi.js": "^8.2.5",
+    "uuid": "^9.0.1",
+    "vite-plugin-proxy": "^0.5.0",
+    "vue": "^3.3.4",
+    "vue-axios": "^3.4.1",
+    "vue-i18n": "^9.6.5",
+    "vue-router": "^4.1.5",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier-vue": "^4.2.0",
+    "eslint-plugin-vue": "^9.9.0",
+    "prettier": "^2.8.8",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.0.2",
+    "vite": "^3.0.9",
+    "vite-plugin-html": "^3.2.0",
+    "vite-plugin-node-stdlib-browser": "^0.2.1"
+  }
+}

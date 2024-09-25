@@ -1,0 +1,283 @@
+{
+  "en_EN": {
+    "common": {
+      "more": "more",
+      "asgrs": "asgrs",
+      "youGet": "You get",
+      "playPass": "play pass",
+      "bloods": "bloods",
+      "join": "Join",
+      "start": "Start",
+      "claim": "Claim",
+      "close": "Close",
+      "save": "Save",
+      "errors": {
+        "importError": "App version updated, reload page"
+      }
+    },
+    "nav": {
+      "home": "Home",
+      "tasks": "Tasks",
+      "wallet": "Wallet",
+      "asgardians": "Asgrs"
+    },
+    "utils": {
+      "request": {
+        "authError": "I'm sorry, Earth is closed today.",
+        "error": "Loki broke something"
+      }
+    },
+    "modals": {
+      "user": {
+        "kick": "Kick",
+        "kickied": " received a kick.",
+        "jokes": [
+          "Thor's lazy friend is so lazy, he makes sloths look like Usain Bolt.",
+          "He's like a Snorlax from Pokemon, always napping and never wanting to move.",
+          "If there was a competition for laziness, he would win gold, silver, and bronze.",
+          "His motto is, «Why hunt vampires when you can just stay in bed?»",
+          "When Thor asks him to go on a vampire hunt, he says, «Can't we just order garlic pizza instead?»",
+          "He's the only person who can fall asleep standing up.",
+          "He's so lazy, even his shadow refuses to follow him around.",
+          "He's so lazy, he considers going to the fridge for food as an Olympic sport.",
+          "He's the reason why vampires haven't been hunted to extinction.",
+          "His laziness is so legendary, even sloths look at him in awe.",
+          "When Thor asks him to join the vampire hunt, he says, «Can't we just call Buffy instead?»",
+          "He's like a living Snorlax, blocking any attempts at productivity.",
+          "His idea of a wild night out is staying up past 9 PM.",
+          "When Thor tells him to look for vampires, he responds with, «I'll get right on that...tomorrow.»",
+          "He's so lazy, he makes Mondays look like a productive day.",
+          "If procrastination was an Olympic sport, he would be a gold medalist.",
+          "He's so lazy, he can fall asleep mid-conversation.",
+          "His laziness is so potent, it's contagious to anyone around him.",
+          "He's like a human couch potato, never wanting to leave the comfort of his seat.",
+          "His idea of a hectic day is having to get up to use the bathroom.",
+          "When Thor asks him to find vampires, he responds with, «I'll think about it...while I nap.»",
+          "He's the reason why vampires feel safe wandering the night.",
+          "His laziness is so profound, it has a gravitational pull of its own.",
+          "When Thor tells him to look for vampires, he suggests they have a vampire-themed slumber party instead.",
+          "His idea of adventure is trying a new flavor of potato chips.",
+          "He's like a sloth in human form, moving at a glacial pace.",
+          "His laziness is so intense, it's like a black hole sucking in all motivation.",
+          "He's so lazy, he considers hitting the snooze button a full-body workout.",
+          "His idea of thrill-seeking is watching paint dry.",
+          "He's the reason why vampires feel comfortable enough to throw brunch parties.",
+          "His laziness is so legendary, even cats envy his ability to nap.",
+          "When Thor tells him to go vampire hunting, he suggests they have a nap-off instead.",
+          "He's so lazy, he considers blinking too much of an effort.",
+          "He's like a professional sleeper, always honing his craft.",
+          "His laziness is so advanced, it's practically an art form.",
+          "When Thor tells him to join the vampire hunt, he responds with, «I'll get right on that...after I finish this nap.»"
+        ]
+      },
+      "invite": {
+        "title": "Invite an asgr",
+        "copy": "Copy link",
+        "copied": "Refferal link is copied",
+        "share": "Send "
+      },
+      "planeGameResult": {
+        "share": "Share you win",
+        "play1": "Play(",
+        "play2": "left)",
+        "titles": [
+          "By Odin's beard, Thor! You have slain more vampires than there are stars in the sky!",
+          "Thor, son of Odin, you have proven that vampires are no match for your mighty hammer!",
+          "Haha, Thor! You have put Dracula to shame with your vampire-slaying skills!",
+          "Well done, my son! You have made the underworld tremble with fear with your vampire-hunting prowess.",
+          "Thor, you have made the vampire population in Asgard decrease faster than Loki's mischief!",
+          "Hail Thor, the vampire slayer! Even vampires fear the thunder of your hammer!",
+          "Odin's blood, Thor! You have a stake in every vampire's heart with your expert hunting skills!",
+          "Thor, you have proven that even the undead cannot escape the wrath of Asgard!",
+          "By the power of Odin, Thor! You have turned vampires into mere dust with your might!",
+          "Thor, the vampires may have fangs, but you have a hammer that crushes them to dust!",
+          "Haha, even the vampire lord bows before your might, Thor!",
+          "Thor, you have made vampire hunting look as easy as chasing after Sif's hair in the wind!",
+          "By Odin's command, Thor! You have rid the realm of vampires faster than you can drink mead!",
+          "Well done, my son! Your vampire-slaying skills shine brighter than the Bifrost bridge itself!",
+          "Thor, you make hunting vampires look as effortless as lifting Mjölnir!",
+          "Hail Thor, the true vampire hunter of Asgard! Even Freyja is impressed by your bravery!",
+          "Thor, you have made the gods of Asgard proud with your vampire-slaying achievements!",
+          "By the power of Odin's eye, Thor! You have become the bane of every vampire's existence!",
+          "Haha, Thor! Your vampire-hunting abilities rival even the skills of the Valkyries!",
+          "Thor, you have proven yourself to be a true hero of Asgard with your vampire-slaying prowess! Skål!",
+          "Thor, my mighty son, you have truly staked your claim as the vampire-slaying champion of Asgard!",
+          "By Mjölnir's might, you've made those bloodsuckers wish they'd stayed in Transylvania!",
+          "Well done, Thor! You've proven that even vampires are no match for your thunderous hunting skills!",
+          "Hail to the king of Asgard, and also to the king of vampire extermination!",
+          "Thor, the vampire population is now officially on the decline thanks to your sharp aim and even sharper wit!",
+          "With each vampire you slay, you solidify your place as the most feared creature in all the Nine Realms!",
+          "Even Dracula himself would think twice before crossing paths with you, Thor!",
+          "Thor, the vampire hunters of Asgard are singing your praises from Bifrost to Midgard!",
+          "The vampire community won't know what hit them when they hear of your latest conquest, Thor!",
+          "Your vampire-slaying skills are so impressive, even the Valkyries are taking notes!",
+          "Thor, you've turned hunting vampires into an art form that even Loki couldn't replicate!",
+          "You've made Van Helsing look like a mere mortal compared to your vampire-slaying prowess, Thor!",
+          "The vampires tremble at the very mention of your name, Thor, for good reason!",
+          "The undead don't stand a chance against the thunderous might of Thor, the vampire slayer!",
+          "Asgard has never been safer with you on patrol, Thor, keeping the vampire threat at bay!",
+          "Your vampire-hunting skills are so legendary, they're sure to inspire a saga or two!",
+          "The vampires must be wondering if they're facing Ragnarok itself when you come knocking, Thor!",
+          "With each vampire you slay, you earn another feather in your cap, my son!",
+          "Thor, the vampire-slaying champion of Asgard, has a nice ring to it, don't you think?",
+          "Rumor has it even the vampires are starting to leave Asgard, fearing your wrath, Thor!"
+        ]
+      }
+    },
+    "pages": {
+      "wallet": {
+        "title": "Wallet settings",
+        "updated": "Wallet address updated",
+        "description": {
+          "one": "Wallet that holds",
+          "two": "or"
+        },
+        "edit": "Change wallet address",
+        "empty": {
+          "title": "Wow! There's nothing. You forgot?",
+          "description": [
+            "Looks like someone forgot to address the wallet...again.",
+            "Well, looks like our wallet address is going to be lost in the void of forgetfulness.",
+            "You really do have the memory of a goldfish, don't you, Thor?",
+            "Let me guess, you were too busy flexing your muscles to set the wallet address?",
+            "Thor, next time just write it down on Mjölnir, okay?",
+            "Ah, the mighty Thor, god of thunder and forgetfulness.",
+            "Should have had your morning mead to jog your memory, brother.",
+            "Did you leave your brain in Asgard when we came to Midgard?",
+            "I bet even Odin is shaking his head at your forgetfulness.",
+            "I guess Loki is the god of wallets now, too.",
+            "Do I need to engrave the address on your armor next time?",
+            "Well, Thor, looks like you struck out on this one.",
+            "Next time, maybe shout the wallet address as you summon the Bifrost, just a thought.",
+            "I suppose even gods have their off days, but this is getting ridiculous.",
+            "Thor, I swear, the mortals are going to start thinking we're the godly duo of incompetence.",
+            "Perhaps I should start calling you Thor the Clueless instead of Thor the Mighty.",
+            "I thought being the god of thunder meant you had some lightning-fast thinking...guess not."
+          ]
+        }
+      },
+      "home": {
+        "planegame": {
+          "title": "Plane game",
+          "play": "Play"
+        },
+        "hunting": "Hunting"
+      },
+      "asgardians": {
+        "title": "Invite asgrs",
+        "description1": "Score",
+        "description2": "from buddies +",
+        "description3": "from their referrals",
+        "description4": "Get a",
+        "description5": "play pass for each asgr.",
+        "invite": "Invite an asgr"
+      },
+      "tasks": {
+        "vultisig": {
+          "name": "Join <b class='g-c'>Vultisig Airdrop</b>"
+        },
+        "title": "Task",
+        "description": "We'll reward you immediately with bloods after each task completion.",
+        "empty": {
+          "title": "There is nothing.",
+          "description": "Has work ended in Asgard? Wow"
+        }
+      },
+      "error": {
+        "title": "I'm sorry, Asgard is closed today.",
+        "descriptions": [
+          "I'm sorry, but the app you're looking for is currently experiencing some technical difficulties. Blame Thor.",
+          "Looks like Thor's app is off duty. Again. Typical.",
+          "Unfortunately, Thor's app seems to have vanished into the void. Guess he forgot to pay the bill.",
+          "Sorry, but Thor forgot to renew his app subscription. Looks like you're out of luck.",
+          "Thor's app has apparently gone on vacation without telling anyone. Classic Thor move.",
+          "I hate to break it to you, but Thor's app is MIA. Probably off gallivanting with his Avengers pals.",
+          "It seems Thor's app has been banished to another realm. You'll have to wait until he brings it back.",
+          "Thor's app is currently in stealth mode. Or maybe he just misplaced it again.",
+          "It appears that Thor's app has been intercepted by some mischievous trickster. Wonder who could have done that...",
+          "Sorry, but Thor's app is indisposed at the moment. Something about saving the world. Again.",
+          "Looks like Thor's app is playing hard to get. Or maybe it's just avoiding your calls.",
+          "I'm afraid the app you seek is in Asgardian lockdown. Blame Thor for causing chaos, as usual.",
+          "Thor's app is currently in Odin's vault. Good luck trying to access it now.",
+          "Unfortunately, Thor's app is on vacation in Sakaar. It might be a while before it returns.",
+          "It seems that Thor's app has been kidnapped by Loki. But don't worry, I'll ransom it back to you for a small fee.",
+          "Thor's app is currently taking a nap in a bed of clouds. It will wake up when it feels like it.",
+          "Unfortunately, Thor's app is trapped in a time loop. You'll have to wait until it breaks free.",
+          "Looks like Thor's app is pretending to be Mjolnir and is hiding from us mere mortals. Classic Thor.",
+          "I'm afraid Thor's app has been banished to Midgard. Good luck finding it among the humans.",
+          "It appears Thor's app has been frozen in ice by Loki. But don't worry, I'll thaw it out eventually.",
+          "Thor's app is currently attending a party in Valhalla. You'll have to wait until it sobers up.",
+          "Sorry, but Thor's app is on a vision quest with Odin. It will return when it has found its purpose.",
+          "Looks like Thor's app has gone undercover as a mortal. Good luck finding it in the sea of humans.",
+          "Unfortunately, Thor's app is trapped in a time loop with Heimdall. You'll have to wait until they figure it out.",
+          "I'm sorry, but Thor's app is attending an intergalactic summit. It may be a while before it returns.",
+          "It seems Thor's app has been turned into a frog by Loki. You'll have to wait until it changes back.",
+          "Looks like Thor's app is having an existential crisis in the void. It will be back when it has found enlightenment.",
+          "Unfortunately, Thor's app is lost in the timestream. You'll have to wait until it catches up with reality.",
+          "Thor's app is currently in a duel with Surtur. It may be a while before it returns from the fiery depths.",
+          "Sorry, but Thor's app has been taken captive by Hela. You'll have to wait until it breaks free from her grasp.",
+          "It appears that Thor's app is on vacation in Nifleheim. You'll have to wait until it returns from the land of the dead.",
+          "Looks like Thor's app has been turned into a chicken by Loki. You'll have to wait until it clucks its way back to you.",
+          "I'm sorry, but Thor's app is on a solo mission in the cosmos. It may be a while before it returns from the stars."
+        ]
+      },
+      "access-denied": {
+        "title": "Access by invitation only",
+        "descriptions": [
+          "Behold, the mighty hashtag that holds the key to the app.",
+          "Do not fear, puny humans. Loki will grant you access to the app, but only if you can find the elusive hashtag.",
+          "The power of the app is not to be taken lightly. Only the bravest souls can handle its magnificence.",
+          "Loki's invites are like gold dust - precious and sought after by all.",
+          "Mortals, tremble before the power of the app and its exclusive invites.",
+          "The app is a realm of wonder and mystery, accessible only to those who have the coveted invites.",
+          "Loki has spoken: only those with invites may enter the sacred realm of the app.",
+          "The app is a realm of endless possibilities, but only for those who hold the magical invites.",
+          "Do not attempt to access the app without the proper invites, for Loki's wrath knows no bounds.",
+          "The app is a realm of magic and wonder, accessible only to those with the right invites.",
+          "Mortals, do not underestimate the power of the hashtag. It holds the key to the app."
+        ]
+      },
+      "bad-ref-code": {
+        "title": "Ooops. The invitation is not valid",
+        "descriptions": [
+          "Sorry, buddy, no invitation, no entry. It's like the golden rule of partying.",
+          "I'm all about upholding the rules of Asgardian party etiquette.",
+          "Maybe try crashing a party in another realm, like Jotunheim or something.",
+          "I don't make the rules, I just enforce them with my mighty hammer.",
+          "If I let you in without an invite, I'd have to let in all the Frost Giants too.",
+          "You could always try sneaking in through the Bifrost, but I wouldn't recommend it.",
+          "I could totally let you in, but then I'd have to challenge you to a drinking contest first.",
+          "Sorry, but even the God of Thunder can't bend the rules of party guest lists.",
+          "You know what they say, no invitation, no party.",
+          "I'll make you a deal: find a valid invite and I'll even let you ride my goat-drawn chariot around Asgard.",
+          "I can't just zap you into the party, unfortunately. Trust me, I checked.",
+          "I bet Loki stole your invitation, that rascal.",
+          "I hear Valhalla throws killer parties, maybe try there instead.",
+          "If it makes you feel better, even I have to show my invitation at the door.",
+          "I've got half a mind to summon the Warriors Three to escort you out of here.",
+          "I hate to say it, but no invitation means no mjolnir-shaped cupcakes for you.",
+          "You could always try asking Heimdall to turn a blind eye, but I can't recommend it.",
+          "If you were worthy of attending, Mjölnir would've told me by now.",
+          "You could try sweet-talking Freyja, but I doubt even she can get you in without an invite.",
+          "Maybe try starting a petition to get you back on the guest list, but I wouldn't hold my breath.",
+          "I heard Sif is throwing her own party, maybe you'll have better luck there.",
+          "This party is strictly Asgardian VIPs only, no exceptions.",
+          "I hate to be the bearer of bad news, but that's the way the magic ale mug spills.",
+          "Don't worry, I hear Midgard has some pretty cool parties too. Maybe check those out.",
+          "If you find a valid invitation, I might even let you borrow my cape for the night.",
+          "I could create a diversion for you to sneak in, but then I'd have to deal with Odin's wrath. No thanks.",
+          "I should introduce you to my brother, the God of Mischief. He knows a thing or two about crashing parties.",
+          "Hate to break it to you, but you're not on the list. And the list is written in unbreakable stone.",
+          "I can't just let anyone into an Asgardian party, you know. It's all about status and whatnot.",
+          "Next time, maybe double-check where you put your invitation before coming to the gates of Asgard.",
+          "I know a guy who knows a guy who can get you a fake invitation, but I can't vouch for its authenticity.",
+          "Sorry, but the only way you're getting in is if you can lift Mjölnir above your head. Good luck with that.",
+          "I'm not saying you're not worthy of attending, but the Bi-frost is very particular about who it lets through.",
+          "You're not the first person to try and sneak in without an invitation, and you won't be the last.",
+          "If it were up to me, I'd let everyone into the party. But alas, I am bound by the laws of Asgard.",
+          "I'll tell you what, find a valid invitation and I'll personally fly you in on my chariot. Deal?"
+        ]
+      }
+    }
+  }
+}

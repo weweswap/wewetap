@@ -1,0 +1,46 @@
+@import '../fonts/Dogica.scss';
+@import '../fonts/Verdana.scss';
+@import '../fonts/EpilepsySans.scss';
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    outline: none;
+    user-select: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1 1 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    background-color: $black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex: 1 1 100%;
+    overflow: hidden;
+    #app > div,
+    #app {
+        background-color: $black;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        flex: 1 1 100%;
+        overflow: hidden;
+    }
+}
+
+.g-c {
+    @include gradient-color;
+}

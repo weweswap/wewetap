@@ -1,0 +1,14 @@
+:root {
+    --Color-primary-black: #000000;
+    --Color-primary-black-1: #0c0c0c;
+    --Color-primary-black-2: #2c2c2c;
+    --Color-primary-black-3: #8a898e;
+
+    --Color-primary-white: #ffffff;
+    --Color-primary-turquoise: #33E6BF;
+    --Color-primary-persian-blue: #0439C7;
+
+    --Color-secondary-violet: #F29DFF;
+    --Color-secondary-aureolin: #FFF624;
+    --Color-secondary-off-red: #FE0000;
+};

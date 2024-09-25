@@ -1,0 +1,15 @@
+.page-container[data-v-32e38e1e] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.page-container svg[data-v-32e38e1e] {
+  fill: var(--Color-primary-turquoise);
+  width: 30px;
+  height: 30px;
+}
+.page-container > div[data-v-32e38e1e] {
+  margin: 0;
+}

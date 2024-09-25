@@ -1,0 +1,234 @@
+div[data-v-46cfe4f1] {
+  display: flex;
+  width: 100%;
+  height: 120px;
+  max-height: 120px;
+  flex-shrink: 0;
+  position: relative;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+div span[data-v-46cfe4f1] {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  flex: 1 1 100%;
+  width: 100%;
+  height: 100%;
+  max-height: 50px;
+}
+div span svg[data-v-46cfe4f1] {
+  height: 50px;
+  width: 18px;
+  fill: var(--Color-primary-white);
+}
+div span svg.blood[data-v-46cfe4f1] {
+  width: 32px;
+  fill: var(--Color-secondary-off-red);
+  margin-right: 8px;
+}
+div .bottom[data-v-46cfe4f1] {
+  fill: var(--Color-primary-turquoise);
+  margin: 0 auto;
+}
+div .bg[data-v-46cfe4f1] {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  width: 120%;
+  height: 120%;
+  stroke: var(--Color-primary-white);
+}
+div .bg path[data-v-46cfe4f1] {
+  animation-name: big-number-bg-46cfe4f1;
+  animation-duration: 8s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  transform-origin: center;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(1) {
+  animation-delay: 50ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(2) {
+  animation-delay: 150ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(3) {
+  animation-delay: 100ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(4) {
+  animation-delay: 250ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(5) {
+  animation-delay: 30ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(6) {
+  animation-delay: 50ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(7) {
+  animation-delay: 80ms;
+}
+div .bg path[data-v-46cfe4f1]:nth-child(8) {
+  animation-delay: 180ms;
+}
+@keyframes big-number-bg-46cfe4f1 {
+0% {
+    transform: scale(0.8);
+}
+50% {
+    transform: scale(1.2);
+}
+100% {
+    transform: scale(0.8);
+}
+}.page-container[data-v-933e9cdf] {
+  gap: 14px;
+  padding: 60px 10px 0;
+}
+.page-container > .big[data-v-933e9cdf] {
+  margin: 0 auto;
+}
+.page-container h1[data-v-933e9cdf] {
+  margin: 0;
+  padding: 0;
+  font-family: "Verdana";
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 38px;
+  text-align: left;
+  color: var(--Color-primary-white);
+  text-align: center;
+}
+.page-container .coins[data-v-933e9cdf] {
+  margin: auto;
+}
+.page-container .plane-game-box[data-v-933e9cdf] {
+  display: flex;
+  flex-direction: row;
+  height: 120px;
+  flex-shrink: 0;
+  gap: 0;
+  border-radius: 12px;
+  align-items: center;
+  justify-content: space-between;
+  position: relative;
+  padding: 0 24px;
+  background: linear-gradient(-45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0) 52%), linear-gradient(45deg, rgba(255, 255, 255, 0) 48%, rgba(255, 255, 255, 0.2) 50%, rgba(255, 255, 255, 0) 52%);
+  background-size: 24px 24px;
+  background-color: transparent;
+  margin-top: auto;
+  animation-name: claim-box-bg-933e9cdf;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes claim-box-bg-933e9cdf {
+0% {
+    background-position-y: 0%;
+}
+100% {
+    background-position-y: 100%;
+}
+}
+.page-container .plane-game-box .angle-2[data-v-933e9cdf],
+.page-container .plane-game-box .angle-1[data-v-933e9cdf] {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 24px;
+  height: 24px;
+}
+.page-container .plane-game-box .angle-2[data-v-933e9cdf] {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: auto;
+  top: auto;
+}
+.page-container .plane-game-box > div[data-v-933e9cdf] {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1 1 33%;
+  width: 33%;
+  max-width: 33%;
+}
+.page-container .plane-game-box > div svg.ship[data-v-933e9cdf] {
+  margin: 0 auto;
+}
+.page-container .plane-game-box > div button[data-v-933e9cdf] {
+  margin-left: auto;
+}
+.page-container .plane-game-box > div span[data-v-933e9cdf] {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+}
+.page-container .plane-game-box > div span[data-v-933e9cdf]:first-child {
+  font-family: "Dogica", "Epilepsy Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  color: var(--Color-primary-white);
+}
+.page-container .plane-game-box > div span[data-v-933e9cdf]:last-child {
+  font-family: "Dogica", "Epilepsy Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 10px;
+  line-height: 12px;
+  color: var(--Color-primary-white);
+}
+.page-container .plane-game-box > div span:last-child svg[data-v-933e9cdf] {
+  width: 18px;
+  height: auto;
+  fill: var(--Color-secondary-violet);
+}
+.page-container .plane-game-box .ship[data-v-933e9cdf] {
+  width: 64px;
+  height: 64px;
+  animation-name: thorchain-ship-933e9cdf;
+  animation-duration: 2s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes thorchain-ship-933e9cdf {
+0% {
+    transform: skew(0, 17deg);
+    filter: drop-shadow(-3px 3px 2px var(--Color-primary-persian-blue));
+}
+50% {
+    transform: skew(0, -17deg);
+    filter: drop-shadow(3px 3px 2px var(--Color-primary-persian-blue));
+}
+100% {
+    transform: skew(0, 17deg);
+    filter: drop-shadow(-3px 3px 2px var(--Color-primary-persian-blue));
+}
+}
+.page-container .button-box[data-v-933e9cdf] {
+  padding: 12px 0;
+  background-color: var(--Color-primary-black);
+  box-shadow: 0px 4px 12px 4px var(--Color-primary-black);
+  flex-shrink: 0;
+  position: sticky;
+  bottom: 0;
+}
+.page-container .button-box button[data-v-933e9cdf] {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+.page-container .button-box button .blood[data-v-933e9cdf] {
+  width: 18px;
+  height: 18px;
+  fill: var(--Color-secondary-off-red);
+}

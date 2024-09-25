@@ -1,0 +1,22 @@
+.page-container[data-v-277b3fba] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.page-container .hashtag[data-v-277b3fba] {
+  font-family: "Verdana";
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 38px;
+  text-align: left;
+}
+.page-container svg[data-v-277b3fba] {
+  fill: var(--Color-primary-turquoise);
+  width: 30px;
+  height: 30px;
+}
+.page-container > div[data-v-277b3fba] {
+  margin: 0;
+}

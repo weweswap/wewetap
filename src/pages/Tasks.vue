@@ -18,7 +18,7 @@
                 <li @click="openLink({
                     external_url: 'https://t.me/vultirefbot',
                     type: 'telegram'
-                })" style="display: none;"
+                })"
                 >
                     <Icon icon="vult" class="vult" />
                     <div>

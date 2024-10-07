@@ -31257,13 +31257,13 @@ const routes = [
     {
         path: '/home',
         name: 'home',
-        component: () => __vitePreload(() => import('./Home.cad9f70f.js'),true?["assets/Home.cad9f70f.js","assets/Avatar.09b5fd82.js","assets/Avatar.2ada1d73.css","assets/Home.6cd99b72.css"]:void 0),
+        component: () => __vitePreload(() => import('./Home.efbad67e.js'),true?["assets/Home.efbad67e.js","assets/Avatar.07f425b9.js","assets/Avatar.2ada1d73.css","assets/Home.6cd99b72.css"]:void 0),
         abort: []
     },
     {
         path: '/tasks',
         name: 'tasks',
-        component: () => __vitePreload(() => import('./Tasks.b8d57b61.js'),true?["assets/Tasks.b8d57b61.js","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/Tasks.a2a15418.css"]:void 0),
+        component: () => __vitePreload(() => import('./Tasks.446de713.js'),true?["assets/Tasks.446de713.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Tasks.a2a15418.css"]:void 0),
         abort: [
             'tasks',
             'myTasks'
@@ -31272,7 +31272,7 @@ const routes = [
     {
         path: '/asgardians',
         name: 'asgardians',
-        component: () => __vitePreload(() => import('./Asgardians.e4a7116b.js'),true?["assets/Asgardians.e4a7116b.js","assets/Avatar.09b5fd82.js","assets/Avatar.2ada1d73.css","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/Asgardians.5be0c66a.css"]:void 0),
+        component: () => __vitePreload(() => import('./Asgardians.a4d16f60.js'),true?["assets/Asgardians.a4d16f60.js","assets/Avatar.07f425b9.js","assets/Avatar.2ada1d73.css","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Asgardians.5be0c66a.css"]:void 0),
         abort: [
             'asgardians'
         ]
@@ -31280,31 +31280,31 @@ const routes = [
     {
         path: '/wallet',
         name: 'wallet',
-        component: () => __vitePreload(() => import('./Wallet.f872979b.js'),true?["assets/Wallet.f872979b.js","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/Wallet.c5bc1ca6.css"]:void 0),
+        component: () => __vitePreload(() => import('./Wallet.5e16462e.js'),true?["assets/Wallet.5e16462e.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Wallet.c5bc1ca6.css"]:void 0),
         abort: []
     },
     {
         path: '/planegame',
         name: 'planegame',
-        component: () => __vitePreload(() => import('./PlaneGame.bd23a046.js'),true?[]:void 0),
+        component: () => __vitePreload(() => import('./PlaneGame.aa28d87b.js'),true?[]:void 0),
         abort: []
     },
     {
         path: '/error',
         name: 'error',
-        component: () => __vitePreload(() => import('./Error.0c95bc34.js'),true?["assets/Error.0c95bc34.js","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/Error.8e4f4fb5.css"]:void 0),
+        component: () => __vitePreload(() => import('./Error.f3513dd1.js'),true?["assets/Error.f3513dd1.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Error.8e4f4fb5.css"]:void 0),
         abort: []
     },
     {
         path: '/access-denied',
         name: 'access-denied',
-        component: () => __vitePreload(() => import('./AccessDenied.2221fcb3.js'),true?["assets/AccessDenied.2221fcb3.js","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/AccessDenied.fb515af8.css"]:void 0),
+        component: () => __vitePreload(() => import('./AccessDenied.772b355b.js'),true?["assets/AccessDenied.772b355b.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/AccessDenied.fb515af8.css"]:void 0),
         abort: []
     },
     {
         path: '/bad-ref-code',
         name: 'bad-ref-code',
-        component: () => __vitePreload(() => import('./BadRefCode.514d45ef.js'),true?["assets/BadRefCode.514d45ef.js","assets/EmptyLabel.fe693195.js","assets/EmptyLabel.9bb00343.css","assets/BadRefCode.db3a2aa4.css"]:void 0),
+        component: () => __vitePreload(() => import('./BadRefCode.708b6b14.js'),true?["assets/BadRefCode.708b6b14.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/BadRefCode.db3a2aa4.css"]:void 0),
         abort: []
     },
     {
@@ -31839,7 +31839,7 @@ async function fetchData({url, method, data, params, auth = true, contentType, s
     }
 
     return await axios$1({
-        baseURL: "https://we-tap-back.webtm.ru",
+        baseURL: "https://wewetap.com",
         method,
         url,
         data,
@@ -32089,7 +32089,7 @@ const browserExt = {
   },
   test: () => true,
   load: async () => {
-    await __vitePreload(() => import('./browserAll.b72afee1.js'),true?["assets/browserAll.b72afee1.js","assets/init.ed4778d2.js","assets/colorToUniform.a69f73cf.js","assets/getBatchSamplersUniformGroup.b4272368.js"]:void 0);
+    await __vitePreload(() => import('./browserAll.cdd97075.js'),true?["assets/browserAll.cdd97075.js","assets/init.14470eda.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js"]:void 0);
   }
 };
 
@@ -32101,7 +32101,7 @@ const webworkerExt = {
   },
   test: () => typeof self !== "undefined" && self.WorkerGlobalScope !== void 0,
   load: async () => {
-    await __vitePreload(() => import('./webworkerAll.5d928ace.js'),true?["assets/webworkerAll.5d928ace.js","assets/init.ed4778d2.js","assets/colorToUniform.a69f73cf.js","assets/getBatchSamplersUniformGroup.b4272368.js"]:void 0);
+    await __vitePreload(() => import('./webworkerAll.04e8fa7d.js'),true?["assets/webworkerAll.04e8fa7d.js","assets/init.14470eda.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js"]:void 0);
   }
 };
 
@@ -41285,14 +41285,14 @@ async function autoDetectRenderer(options) {
   for (let i = 0; i < preferredOrder.length; i++) {
     const rendererType = preferredOrder[i];
     if (rendererType === "webgpu" && await isWebGPUSupported()) {
-      const { WebGPURenderer } = await __vitePreload(() => import('./WebGPURenderer.51be35d9.js'),true?["assets/WebGPURenderer.51be35d9.js","assets/colorToUniform.a69f73cf.js","assets/SharedSystems.0b786b8f.js"]:void 0);
+      const { WebGPURenderer } = await __vitePreload(() => import('./WebGPURenderer.3e718ed1.js'),true?["assets/WebGPURenderer.3e718ed1.js","assets/colorToUniform.3424c7c9.js","assets/SharedSystems.b8561e23.js"]:void 0);
       RendererClass = WebGPURenderer;
       finalOptions = { ...options, ...options.webgpu };
       break;
     } else if (rendererType === "webgl" && isWebGLSupported(
       options.failIfMajorPerformanceCaveat ?? AbstractRenderer.defaultOptions.failIfMajorPerformanceCaveat
     )) {
-      const { WebGLRenderer } = await __vitePreload(() => import('./WebGLRenderer.a5e25d34.js'),true?["assets/WebGLRenderer.a5e25d34.js","assets/colorToUniform.a69f73cf.js","assets/getBatchSamplersUniformGroup.b4272368.js","assets/SharedSystems.0b786b8f.js"]:void 0);
+      const { WebGLRenderer } = await __vitePreload(() => import('./WebGLRenderer.cce9792b.js'),true?["assets/WebGLRenderer.cce9792b.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js","assets/SharedSystems.b8561e23.js"]:void 0);
       RendererClass = WebGLRenderer;
       finalOptions = { ...options, ...options.webgl };
       break;

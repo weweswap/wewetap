@@ -1,5 +1,5 @@
-import { _ as _export_sfc, u as useI18n, m as mapState, q as mapMutations, l as mapActions, r as reactive, w as watch, C as onMounted, a as resolveComponent, o as openBlock, g as createBlock, b as createElementBlock, e as createVNode, d as createBaseVNode, t as toDisplayString, s as unref, B as Button, F as Fragment, f as renderList, h as createCommentVNode, j as delay, x as normalizeClass, v as createTextVNode, n as numberWithSpaces, D as withModifiers, z as message, L as Loader } from './index.cfd8383c.js';
-import { E as EmptyLabel } from './EmptyLabel.fe693195.js';
+import { _ as _export_sfc, u as useI18n, m as mapState, q as mapMutations, l as mapActions, r as reactive, w as watch, C as onMounted, a as resolveComponent, o as openBlock, g as createBlock, b as createElementBlock, e as createVNode, d as createBaseVNode, t as toDisplayString, s as unref, B as Button, F as Fragment, f as renderList, h as createCommentVNode, j as delay, x as normalizeClass, v as createTextVNode, n as numberWithSpaces, D as withModifiers, z as message, L as Loader } from './index.9a5db10d.js';
+import { E as EmptyLabel } from './EmptyLabel.cb2ef7ae.js';
 
 const Tasks_vue_vue_type_style_index_0_scoped_938d4297_lang = '';
 
@@ -166,8 +166,7 @@ return (_ctx, _cache) => {
                   onClick: _cache[0] || (_cache[0] = $event => (openLink({
                     external_url: 'https://t.me/vultirefbot',
                     type: 'telegram'
-                }))),
-                  style: {"display":"none"}
+                })))
                 }, [
                   createVNode(_component_Icon, {
                     icon: "vult",

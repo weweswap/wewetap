@@ -1,4 +1,4 @@
-import { am as getTestContext, an as uid, M as EventEmitter, W as BindGroup, ao as TextureSource, X as Texture, ak as nextPow2, N as warn } from './index.cfd8383c.js';
+import { am as getTestContext, an as uid, M as EventEmitter, W as BindGroup, ao as TextureSource, X as Texture, ak as nextPow2, N as warn } from './index.9a5db10d.js';
 
 const idCounts = /* @__PURE__ */ Object.create(null);
 const idHash = /* @__PURE__ */ Object.create(null);

@@ -1,4 +1,4 @@
-import { _ as _export_sfc, m as mapState, q as mapMutations, l as mapActions, w as watch, C as onMounted, I as onBeforeUnmount, A as router } from './index.cfd8383c.js';
+import { _ as _export_sfc, m as mapState, q as mapMutations, l as mapActions, w as watch, C as onMounted, I as onBeforeUnmount, A as router } from './index.9a5db10d.js';
 
 const _sfc_main = {
   __name: 'PlaneGame',

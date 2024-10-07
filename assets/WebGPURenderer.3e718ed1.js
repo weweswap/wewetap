@@ -1,6 +1,6 @@
-import { a5 as State, aa as getMaxTexturesPerBatch, ap as getTextureBatchBindGroup, K as ExtensionType, aq as fastCopy, ar as STENCIL_MODES, as as BufferUsage, at as Buffer, W as BindGroup, N as warn, au as CLEAR, av as CanvasSource, ao as TextureSource, af as DOMAdapter, ag as CanvasPool, R as Matrix, X as Texture, O as extensions, aw as AbstractRenderer } from './index.cfd8383c.js';
-import { a as compileHighShaderGpuProgram, f as colorBit, g as generateTextureBatchBit, r as roundPixelsBit, S as Shader, j as createIdFromString, U as UniformGroup, k as localUniformBitGroup2, l as localUniformBit, R as RendererType } from './colorToUniform.a69f73cf.js';
-import { c as createUboSyncFunction, u as uboSyncFunctionsWGSL, U as UboSystem, B as BufferResource, G as GpuStencilModesToPixi, e as ensureAttributes, R as RenderTargetSystem, t as textureBit, S as SharedSystems, a as SharedRenderPipes } from './SharedSystems.0b786b8f.js';
+import { a5 as State, aa as getMaxTexturesPerBatch, ap as getTextureBatchBindGroup, K as ExtensionType, aq as fastCopy, ar as STENCIL_MODES, as as BufferUsage, at as Buffer, W as BindGroup, N as warn, au as CLEAR, av as CanvasSource, ao as TextureSource, af as DOMAdapter, ag as CanvasPool, R as Matrix, X as Texture, O as extensions, aw as AbstractRenderer } from './index.9a5db10d.js';
+import { a as compileHighShaderGpuProgram, f as colorBit, g as generateTextureBatchBit, r as roundPixelsBit, S as Shader, j as createIdFromString, U as UniformGroup, k as localUniformBitGroup2, l as localUniformBit, R as RendererType } from './colorToUniform.3424c7c9.js';
+import { c as createUboSyncFunction, u as uboSyncFunctionsWGSL, U as UboSystem, B as BufferResource, G as GpuStencilModesToPixi, e as ensureAttributes, R as RenderTargetSystem, t as textureBit, S as SharedSystems, a as SharedRenderPipes } from './SharedSystems.b8561e23.js';
 
 const tempState = State.for2d();
 class GpuBatchAdaptor {

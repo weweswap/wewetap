@@ -1,4 +1,4 @@
-import { U as UniformGroup } from './colorToUniform.3424c7c9.js';
+import { U as UniformGroup } from './colorToUniform.61d96af7.js';
 
 const batchSamplersUniformGroupHash = {};
 function getBatchSamplersUniformGroup(maxTextures) {

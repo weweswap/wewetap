@@ -997,8 +997,8 @@ body {
   flex: 1 1 100%;
   overflow: hidden;
 }
-body #app > div,
-body #app {
+body #wewetap-app > div,
+body #wewetap-app {
   background-color: var(--Color-primary-black);
   height: 100%;
   width: 100%;

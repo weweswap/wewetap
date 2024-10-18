@@ -1,5 +1,5 @@
-import { _ as _export_sfc, r as reactive, c as computed, w as watch, a as resolveComponent, o as openBlock, b as createElementBlock, d as createBaseVNode, e as createVNode, F as Fragment, f as renderList, g as createBlock, h as createCommentVNode, i as createStaticVNode, n as numberWithSpaces, j as delay, p as pushScopeId, k as popScopeId, u as useI18n, m as mapState, l as mapActions, q as mapMutations, s as unref, t as toDisplayString, v as createTextVNode, x as normalizeClass, B as Button, y as withCtx, z as message, A as router } from './index.9a5db10d.js';
-import { A as Avatar } from './Avatar.07f425b9.js';
+import { _ as _export_sfc, r as reactive, c as computed, w as watch, a as resolveComponent, o as openBlock, b as createElementBlock, d as createBaseVNode, e as createVNode, F as Fragment, f as renderList, g as createBlock, h as createCommentVNode, i as createStaticVNode, n as numberWithSpaces, j as delay, p as pushScopeId, k as popScopeId, u as useI18n, m as mapState, l as mapActions, q as mapMutations, s as unref, t as toDisplayString, v as createTextVNode, x as normalizeClass, B as Button, y as withCtx, z as message, A as router } from './index.ab82c011.js';
+import { A as Avatar } from './Avatar.4b7b181b.js';
 
 const BigCounter_vue_vue_type_style_index_0_scoped_46cfe4f1_lang = '';
 

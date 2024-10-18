@@ -31257,13 +31257,13 @@ const routes = [
     {
         path: '/home',
         name: 'home',
-        component: () => __vitePreload(() => import('./Home.efbad67e.js'),true?["assets/Home.efbad67e.js","assets/Avatar.07f425b9.js","assets/Avatar.2ada1d73.css","assets/Home.6cd99b72.css"]:void 0),
+        component: () => __vitePreload(() => import('./Home.300d103a.js'),true?["assets/Home.300d103a.js","assets/Avatar.4b7b181b.js","assets/Avatar.2ada1d73.css","assets/Home.6cd99b72.css"]:void 0),
         abort: []
     },
     {
         path: '/tasks',
         name: 'tasks',
-        component: () => __vitePreload(() => import('./Tasks.446de713.js'),true?["assets/Tasks.446de713.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Tasks.a2a15418.css"]:void 0),
+        component: () => __vitePreload(() => import('./Tasks.a078aa4c.js'),true?["assets/Tasks.a078aa4c.js","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/Tasks.a2a15418.css"]:void 0),
         abort: [
             'tasks',
             'myTasks'
@@ -31272,7 +31272,7 @@ const routes = [
     {
         path: '/asgardians',
         name: 'asgardians',
-        component: () => __vitePreload(() => import('./Asgardians.a4d16f60.js'),true?["assets/Asgardians.a4d16f60.js","assets/Avatar.07f425b9.js","assets/Avatar.2ada1d73.css","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Asgardians.5be0c66a.css"]:void 0),
+        component: () => __vitePreload(() => import('./Asgardians.14f71c43.js'),true?["assets/Asgardians.14f71c43.js","assets/Avatar.4b7b181b.js","assets/Avatar.2ada1d73.css","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/Asgardians.5be0c66a.css"]:void 0),
         abort: [
             'asgardians'
         ]
@@ -31280,31 +31280,31 @@ const routes = [
     {
         path: '/wallet',
         name: 'wallet',
-        component: () => __vitePreload(() => import('./Wallet.5e16462e.js'),true?["assets/Wallet.5e16462e.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Wallet.c5bc1ca6.css"]:void 0),
+        component: () => __vitePreload(() => import('./Wallet.2cd7ab4b.js'),true?["assets/Wallet.2cd7ab4b.js","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/Wallet.c5bc1ca6.css"]:void 0),
         abort: []
     },
     {
         path: '/planegame',
         name: 'planegame',
-        component: () => __vitePreload(() => import('./PlaneGame.aa28d87b.js'),true?[]:void 0),
+        component: () => __vitePreload(() => import('./PlaneGame.38a8e156.js'),true?[]:void 0),
         abort: []
     },
     {
         path: '/error',
         name: 'error',
-        component: () => __vitePreload(() => import('./Error.f3513dd1.js'),true?["assets/Error.f3513dd1.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/Error.8e4f4fb5.css"]:void 0),
+        component: () => __vitePreload(() => import('./Error.53c7ab07.js'),true?["assets/Error.53c7ab07.js","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/Error.8e4f4fb5.css"]:void 0),
         abort: []
     },
     {
         path: '/access-denied',
         name: 'access-denied',
-        component: () => __vitePreload(() => import('./AccessDenied.772b355b.js'),true?["assets/AccessDenied.772b355b.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/AccessDenied.fb515af8.css"]:void 0),
+        component: () => __vitePreload(() => import('./AccessDenied.17ba4ebb.js'),true?["assets/AccessDenied.17ba4ebb.js","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/AccessDenied.fb515af8.css"]:void 0),
         abort: []
     },
     {
         path: '/bad-ref-code',
         name: 'bad-ref-code',
-        component: () => __vitePreload(() => import('./BadRefCode.708b6b14.js'),true?["assets/BadRefCode.708b6b14.js","assets/EmptyLabel.cb2ef7ae.js","assets/EmptyLabel.9bb00343.css","assets/BadRefCode.db3a2aa4.css"]:void 0),
+        component: () => __vitePreload(() => import('./BadRefCode.d0661709.js'),true?["assets/BadRefCode.d0661709.js","assets/EmptyLabel.24b90b18.js","assets/EmptyLabel.9bb00343.css","assets/BadRefCode.db3a2aa4.css"]:void 0),
         abort: []
     },
     {
@@ -32089,7 +32089,7 @@ const browserExt = {
   },
   test: () => true,
   load: async () => {
-    await __vitePreload(() => import('./browserAll.cdd97075.js'),true?["assets/browserAll.cdd97075.js","assets/init.14470eda.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js"]:void 0);
+    await __vitePreload(() => import('./browserAll.684aee84.js'),true?["assets/browserAll.684aee84.js","assets/init.6e8beaa3.js","assets/colorToUniform.61d96af7.js","assets/getBatchSamplersUniformGroup.0f8007e0.js"]:void 0);
   }
 };
 
@@ -32101,7 +32101,7 @@ const webworkerExt = {
   },
   test: () => typeof self !== "undefined" && self.WorkerGlobalScope !== void 0,
   load: async () => {
-    await __vitePreload(() => import('./webworkerAll.04e8fa7d.js'),true?["assets/webworkerAll.04e8fa7d.js","assets/init.14470eda.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js"]:void 0);
+    await __vitePreload(() => import('./webworkerAll.13e2a789.js'),true?["assets/webworkerAll.13e2a789.js","assets/init.6e8beaa3.js","assets/colorToUniform.61d96af7.js","assets/getBatchSamplersUniformGroup.0f8007e0.js"]:void 0);
   }
 };
 
@@ -41285,14 +41285,14 @@ async function autoDetectRenderer(options) {
   for (let i = 0; i < preferredOrder.length; i++) {
     const rendererType = preferredOrder[i];
     if (rendererType === "webgpu" && await isWebGPUSupported()) {
-      const { WebGPURenderer } = await __vitePreload(() => import('./WebGPURenderer.3e718ed1.js'),true?["assets/WebGPURenderer.3e718ed1.js","assets/colorToUniform.3424c7c9.js","assets/SharedSystems.b8561e23.js"]:void 0);
+      const { WebGPURenderer } = await __vitePreload(() => import('./WebGPURenderer.f039d152.js'),true?["assets/WebGPURenderer.f039d152.js","assets/colorToUniform.61d96af7.js","assets/SharedSystems.6cefa67c.js"]:void 0);
       RendererClass = WebGPURenderer;
       finalOptions = { ...options, ...options.webgpu };
       break;
     } else if (rendererType === "webgl" && isWebGLSupported(
       options.failIfMajorPerformanceCaveat ?? AbstractRenderer.defaultOptions.failIfMajorPerformanceCaveat
     )) {
-      const { WebGLRenderer } = await __vitePreload(() => import('./WebGLRenderer.cce9792b.js'),true?["assets/WebGLRenderer.cce9792b.js","assets/colorToUniform.3424c7c9.js","assets/getBatchSamplersUniformGroup.f6b79987.js","assets/SharedSystems.b8561e23.js"]:void 0);
+      const { WebGLRenderer } = await __vitePreload(() => import('./WebGLRenderer.3b2e4964.js'),true?["assets/WebGLRenderer.3b2e4964.js","assets/colorToUniform.61d96af7.js","assets/getBatchSamplersUniformGroup.0f8007e0.js","assets/SharedSystems.6cefa67c.js"]:void 0);
       RendererClass = WebGLRenderer;
       finalOptions = { ...options, ...options.webgl };
       break;
@@ -52604,6 +52604,6 @@ app.directive('scroll', {
 app.config.globalProperties.$http = store.$http = fetchData;
 app.config.globalProperties.$message = store.$message = message;
 
-app.mount('#app');
+app.mount('#wewetap-app');
 
 export { deprecation as $, router as A, Button as B, onMounted as C, withModifiers as D, Counter as E, Fragment as F, withDirectives as G, vModelText as H, onBeforeUnmount as I, removeItems as J, ExtensionType as K, Loader$1 as L, EventEmitter as M, warn as N, extensions as O, Point as P, Container as Q, Matrix as R, boundsPool as S, Ticker as T, UPDATE_PRIORITY as U, Geometry as V, BindGroup as W, Texture as X, Bounds as Y, GraphicsContext as Z, _export_sfc as _, resolveComponent as a, v8_0_0 as a0, Color as a1, TextStyle as a2, generateTextStyleKey as a3, CanvasTextMetrics as a4, State as a5, BigPool as a6, BatchableGraphics as a7, MeshGeometry as a8, getAdjustedBlendModeBlend as a9, getGlobalBounds as aA, FilterEffect as aB, Sprite as aC, unsafeEvalSupported as aD, SystemRunner as aE, UPDATE_COLOR as aF, UPDATE_BLEND as aG, UPDATE_VISIBLE as aH, getLocalBounds as aI, RendererInitHook as aJ, getMaxTexturesPerBatch as aa, BitmapFontManager as ab, getBitmapTextLayout as ac, Cache as ad, updateQuadBounds as ae, DOMAdapter as af, CanvasPool as ag, Rectangle as ah, fontStringFromTextStyle as ai, getCanvasFillStyle as aj, nextPow2 as ak, GraphicsContextSystem as al, getTestContext as am, uid as an, TextureSource as ao, getTextureBatchBindGroup as ap, fastCopy as aq, STENCIL_MODES as ar, BufferUsage as as, Buffer as at, CLEAR as au, CanvasSource as av, AbstractRenderer as aw, TextureMatrix as ax, Batcher as ay, BatchGeometry as az, createElementBlock as b, computed as c, createBaseVNode as d, createVNode as e, renderList as f, createBlock as g, createCommentVNode as h, createStaticVNode as i, delay as j, popScopeId as k, mapActions as l, mapState as m, numberWithSpaces as n, openBlock as o, pushScopeId as p, mapMutations as q, reactive as r, unref as s, toDisplayString$1 as t, useI18n as u, createTextVNode as v, watch as w, normalizeClass as x, withCtx as y, message as z };

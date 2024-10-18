@@ -39,4 +39,4 @@ app.directive('scroll', {
 app.config.globalProperties.$http = store.$http = fetchData;
 app.config.globalProperties.$message = store.$message = message;
 
-app.mount('#app');
+app.mount('#wewetap-app');
